@@ -1,5 +1,5 @@
 {
-  "name": "nexichat",
+  "name": "Sumi Reaction",
   "description": "A telegram bot",
   "logo": "https://envs.sh/IL_.jpg",
   "keywords": [
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/THE-VIP-BOY-OP/VIP-REACTION-BOT",
+  "repository": "https://github.com/dearsumi/Reaction-Bot.git",
   "env": {
     "BOT_TOKEN": {
       "description": "7765142028:AAGPRPYB-KBw239ZOqx_U2fREn7ZPW0FYdc",
