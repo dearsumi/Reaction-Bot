@@ -14,17 +14,17 @@
   "repository": "https://github.com/THE-VIP-BOY-OP/VIP-REACTION-BOT",
   "env": {
     "BOT_TOKEN": {
-      "description": "A Bot token from @BotFather",
+      "description": "7765142028:AAGPRPYB-KBw239ZOqx_U2fREn7ZPW0FYdc",
       "required": true,
       "value": ""
     },
     "OWNER_ID": {
-      "description": "Fill Here Your Owner User Id",
+      "description": "7804972365",
       "required": true,
       "value": "1808943146"
     },
     "MONGO_URL": {
-      "description": "Get a mongodb url from https://cloud.mongodb.com.",
+      "description": "mongodb+srv://sumiloo:<db_password>@react.fvqrg.mongodb.net/?retryWrites=true&w=majority&appName=react",
       "required": true,
       "value": ""
     }
