@@ -11,7 +11,7 @@ commands:
   package:
     - "nano config.py"
   start:
-    - "python3 nexichat"
+    - "python3 - m nexichat"
 
 env:
   - "ENVIRONMENT=production"
