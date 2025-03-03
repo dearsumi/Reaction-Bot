@@ -9,9 +9,9 @@ commands:
   build:
     - "pip install -r requirements.txt"
   package:
-    - "nano"
+    - "nano inxi"
   start:
-    - "python3 - m nexichat"
+    - "python3 bot.py"
 
 env:
   - "ENVIRONMENT=production"
